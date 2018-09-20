@@ -1,6 +1,9 @@
 _repo: Essays-Scientific-Political-Speculative-Vol-2-of-3-Library-Edition-1891-Containing-Seven-Essa__53395
 _version: 0.1.0
 alternative_title: 'Essays: Scientific, Political, and Speculative; Vol. 2 of 3'
+covers:
+- cover_type: archival
+  image_path: 53395-h/images/cover.jpg
 creator:
   author:
     agent_name: Spencer, Herbert
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1887
     wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53395#Essays-Scientific-Political-Speculative-Vol-2-of-3-Library-Edition-1891-Containing-Seven-Essa_
 gutenberg_issued: '2016-10-29'
 gutenberg_type: Text
 identifiers:
