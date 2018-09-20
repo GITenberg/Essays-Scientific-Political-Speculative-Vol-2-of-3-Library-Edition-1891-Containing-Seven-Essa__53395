@@ -1,0 +1,36 @@
+_repo: Essays-Scientific-Political-Speculative-Vol-2-of-3-Library-Edition-1891-Containing-Seven-Essa__53395
+_version: 0.0.1
+alternative_title: 'Essays: Scientific, Political, and Speculative; Vol. 2 of 3'
+creator:
+  author:
+    agent_name: Spencer, Herbert
+    birthdate: 1820
+    deathdate: 1903
+    gutenberg_agent_id: '1887'
+    url: http://www.gutenberg.org/2009/agents/1887
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_Spencer
+description: ''
+gutenberg_issued: '2016-10-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science'
+- !lcsh 'Philosophy'
+- !lcsh 'Political science'
+- !lcc 'B'
+- GITenberg
+tableOfContents: 'The genesis of science -- The classification of the sciences --
+  Reasons for dissenting from the philosophy of M. Comte -- On laws in general, and
+  the order of their discovery -- The valuation of evidence -- What is electricity?
+  -- Mill versus Hamilton: The test of truth -- Replies to criticisms -- Prof. Green''s
+  explanations -- The philosophy of style -- Use and beauty -- The sources of architectural
+  types -- Gracefulness -- Personal beauty -- The origin and function of music --
+  The physiology of laughter.'
+title: "Essays: Scientific, Political, & Speculative; Vol. 2 of 3\r\nLibrary Edition\
+  \ (1891), Containing Seven Essays not before Republished, and Various other Additions."
+url: http://www.gutenberg.org/ebooks/53395
